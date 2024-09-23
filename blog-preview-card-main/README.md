@@ -24,12 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop View](/assets/images/desktop-view.png);
+![Mobile View](/assets/images/mobile-view.jpg);
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://blog-preview-solution-saleem.netlify.app/)
+- Live Site URL: [Live Site](https://blog-preview-solution-saleem.netlify.app/m)
 
 ## My process
 
