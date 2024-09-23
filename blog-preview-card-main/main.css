@@ -110,18 +110,18 @@ span.date {
 
 @media (min-width: 768px) {
   .card {
-    width: 70%; /* Slightly bigger on medium screens */
+    width: 70%;
   }
 }
 
 @media (min-width: 1024px) {
   .card {
-    width: 50%; /* Even bigger on larger screens */
+    width: 50%;
   }
 }
 
 @media (min-width: 1200px) {
   .card {
-    width: 30%; /* More control on larger screens */
+    width: 30%;
   }
 }
