@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](/assets/images/desktop-view.png);
-![Mobile View](/assets/images/mobile-view.jpg);
+![Desktop View](./assets/images/desktop-view.png);
+![Mobile View](./assets/images/mobile-view.jpg);
 
 ### Links
 
