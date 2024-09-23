@@ -36,7 +36,7 @@ body {
   padding: 20px;
   margin: 50px auto;
   overflow: hidden;
-  box-shadow: 15px 15px 25px var(--gray-950);
+  box-shadow: 10px 10px 0 0 var(--gray-950);
 }
 
 .img {
